@@ -23,7 +23,7 @@ mv ~/.local/state/nvim{,.bak}
 mv ~/.cache/nvim{,.bak}
 
 # install
-git clone https://github.com/<your-user>/nvim ~/.config/nvim
+git clone https://github.com/AFlachat/nvim ~/.config/nvim
 nvim
 ```
 
