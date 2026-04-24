@@ -10,6 +10,7 @@ On top of [LazyVim's own requirements](https://www.lazyvim.org/installation), th
 - Flutter & Dart SDKs — for [flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim)
 - `magick` CLI (ImageMagick 7) — for [image.nvim](https://github.com/3rd/image.nvim)
 - `sqlit` CLI on `$PATH` — for [sqlit.nvim](https://github.com/Maxteabag/sqlit.nvim)
+- `k9s` CLI on `$PATH` — for [kube-utils-nvim](https://github.com/h4ckm1n-dev/kube-utils-nvim)
 
 ## Installation
 
