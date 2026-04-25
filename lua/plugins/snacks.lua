@@ -6,6 +6,7 @@ return {
       picker = {
         sources = {
           explorer = {
+            hidden = true,
             layout = {
               preset = "sidebar",
               preview = false,
