@@ -49,7 +49,7 @@ LazyVim will bootstrap `lazy.nvim` and install all plugins on first launch.
 
 AI: `claudecode` · Coding: `nvim-cmp` · Editor: `outline`, `telescope` · Utils: `dot`, `gitui`, `rest`, `vscode`
 
-Languages: Ansible, Dart, Docker, Git, Go, Helm, JSON, Markdown, SQL, Tailwind, Terraform, TypeScript, YAML.
+Languages: Ansible, Dart, Docker, Git, Go, Helm, JSON, Markdown, PHP, Prisma, Python, Rust, SQL, Tailwind, Terraform, TOML, TypeScript, YAML.
 
 ## Custom plugins
 
